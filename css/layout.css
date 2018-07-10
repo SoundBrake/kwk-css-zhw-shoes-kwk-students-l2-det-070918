@@ -37,7 +37,7 @@
 .article{
   width: 70%;
   position: relative;
-  
+  top: -100px;
 }
 .archive{
   width: 30%;
