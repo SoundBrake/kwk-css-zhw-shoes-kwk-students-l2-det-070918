@@ -36,6 +36,8 @@
 }
 .article{
   width: 70%;
+  position: relative;
+  
 }
 .archive{
   width: 30%;
