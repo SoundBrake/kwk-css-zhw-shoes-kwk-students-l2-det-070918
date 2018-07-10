@@ -36,5 +36,6 @@
 }
 
 .archive{
-  position: absolute;
+  position: relative;
+  top: -100px;
 }
