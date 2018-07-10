@@ -39,6 +39,7 @@
 }
 .archive{
   width: 30%;
+  height: 110%;
   position: relative;
   top: -600px;
 }
